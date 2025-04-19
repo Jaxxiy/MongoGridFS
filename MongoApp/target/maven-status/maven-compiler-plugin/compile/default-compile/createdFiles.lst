@@ -1,0 +1,5 @@
+ru\luxtington\MongoApp\MongoAppApplication.class
+ru\luxtington\MongoApp\config\MongoConfig.class
+ru\luxtington\MongoApp\repository\FlatRepository.class
+ru\luxtington\MongoApp\models\Toy.class
+ru\luxtington\MongoApp\service\FileStorageService.class
